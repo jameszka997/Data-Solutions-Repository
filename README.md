@@ -1,4 +1,4 @@
-#Data Analytisa Portfolio Projects
+# Data Analytics Portfolio Projects
 
 Welcome to my **Data Analytics Project Portfolio**! This repository showcases a collection of projects I have worked on and working on in my current position, demonstrating my skills in data cleaning, analysis, visualization, as well as setting up data structures for efficient long-term use. 
 
