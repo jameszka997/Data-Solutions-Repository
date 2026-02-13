@@ -9,7 +9,7 @@ Due to the confidential nature of the audit data, specific company information a
 ## 🏢 Business Problem
 
 ### Context
-Received the first project list of 2025 for European company audits. No prior knowledge existed about list characteristics or patterns.
+Received the first company list of 2025 for audits of companies within the European region. No prior knowledge existed about list characteristics or patterns.
 
 ### Specific Challenges
 - **Unknown Geographic Distribution:** No visibility into country-level company concentration
