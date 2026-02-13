@@ -2,6 +2,8 @@
 
 **A comprehensive project timeline management and tracker dashboard to track deadlines, milestones for projects and team members.**
 
+<img width="1351" height="712" alt="image" src="https://github.com/user-attachments/assets/e2aaade5-8bd6-4580-b429-a16342e65c06" />
+
 
 
 
