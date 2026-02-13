@@ -7,6 +7,11 @@ This project developed a comprehensive audit capacity projection model for the R
 ### ⚠️ Disclaimer
 Due to the confidential nature of company audit operations, specific auditor names and certain operational details have been included only to demonstrate the analytical methodology. This README showcases the projection modeling approach and business intelligence capabilities.
 
+
+<img width="2238" height="758" alt="image" src="https://github.com/user-attachments/assets/c6b3bffe-99e9-4eed-b6ba-aa1cdac868ec" />
+
+
+
 ## 🏢 Business Problem
 
 ### Context
@@ -122,10 +127,19 @@ Built a month-by-month projection model in Excel which calculates audit capacity
 
 **2025 Calendar Year (Feb-Dec)**:
 
-put graph here
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/4c66a8d4-f276-4de2-b844-5e8707f39a55" />
+
+
+
+
 
 **Extended Timeline (Feb 2025 - Mar 2026)**:
-put graph here
+
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/1dc87e57-ed2b-4f28-931a-9c824f8c2c61" />
+
+
+
+
 
 
 **Percentage loss due to vacations**
