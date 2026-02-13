@@ -27,7 +27,7 @@ Each project includes:
 - **Project Projection Modelling:** Projection of the number of projects that can be expected from a dynamically evolving and growing team (Most ideal vs. more realistic)
 - **Project List Exploration:** Insight and Analysis of 2025 Project List for key characteristics and patterns
 - **Project Geographic Mapping Dashboard:** Visualization dashboard to visualize all projects on an interactive map with custom filter options
-- **Project Timeline Dashboard:** visual to track and depict important defined dates, as well as due dates and to record and depict on-going state of projects.
+- **[Project Timeline Dashboard:](https://github.com/jameszka997/Work-Projects/blob/main/Project%20Timeline%20Visual/Timeline%20visual%20readme.md)** visual to track and depict important defined dates, as well as due dates and to record and depict on-going state of projects.
 
 ---
 
