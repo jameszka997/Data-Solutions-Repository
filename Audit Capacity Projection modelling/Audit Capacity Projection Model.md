@@ -1,4 +1,8 @@
-# 📊 Quality Assurance Team Performance Projection Modelling
+# 📊  Audit Capacity Projection Model
+
+<img width="2238" height="758" alt="image" src="https://github.com/user-attachments/assets/c6b3bffe-99e9-4eed-b6ba-aa1cdac868ec" />
+
+
 
 ## 🎯 Overview
 
@@ -8,7 +12,6 @@ This project developed a comprehensive audit capacity projection model for the R
 Due to the confidential nature of company audit operations, specific auditor names and certain operational details have been included only to demonstrate the analytical methodology. This README showcases the projection modeling approach and business intelligence capabilities.
 
 
-<img width="2238" height="758" alt="image" src="https://github.com/user-attachments/assets/c6b3bffe-99e9-4eed-b6ba-aa1cdac868ec" />
 
 
 
