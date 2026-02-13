@@ -1,5 +1,7 @@
 # 📊  Audit Capacity Projection Model
 
+**This project developed a comprehensive audit capacity projection model for the Regional Hub to forecast audit performance throughout 2025.**
+
 <img width="2238" height="758" alt="image" src="https://github.com/user-attachments/assets/c6b3bffe-99e9-4eed-b6ba-aa1cdac868ec" />
 
 
