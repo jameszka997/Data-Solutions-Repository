@@ -6,7 +6,7 @@
 The current documents aims to give an overview of the data structure used for the Gantt chart (`ADWISE Roadmap v3.1.3.0`) that showcases the project timelines and milestones.
 
 
-### Structure of the Datatable
+## Structure of the Datatable
 | Column name	|Function	|Data Type|
 |--|--|--|
 |Project Owner |Displays Assigned Project Owner |Text|
@@ -39,8 +39,12 @@ Project Name column is renamed to *Axis Y*. *Details* column would be shorter ab
 ### Explanation for column structure within Gantt chart
 ADWISE Roadmap offers free featues which covers the 6 columns within the new data structure (aside from *Project Owner* which is used only for one of the filtering options).
 
-The assigned values are entered into the visual columns within Power BI and the data is visualized.
+<img width="761" height="207" alt="image" src="https://github.com/user-attachments/assets/a6fd8b35-0aaf-4467-b888-28e45f613eaa" />
 
+The assigned values are entered into the corresponding visual columns within Power BI and the data is visualized.
+
+
+The following dashboard utilizes the ADWISE Roadmap Gantt chart visual from [ADWISE-visuals](https://www.adwise-visuals.com/).
 
 
 
