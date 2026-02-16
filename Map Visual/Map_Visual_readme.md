@@ -2,7 +2,8 @@
 
 **A comprehensive and interactive Azure Map visual to showcase the location of projects and point them on a map as a tracking tool.**
 
-*insert banner picture*
+
+<img width="700" height="388" alt="map_visual_banner" src="https://github.com/user-attachments/assets/b14eee61-5a0a-4f28-ac32-95bb784ea630" />
 
 
 
