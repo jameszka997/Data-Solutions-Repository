@@ -26,7 +26,7 @@ Each project includes:
 ## 📂 Project List highlights
 - **[Audit Capacity Projection Modelling:](https://github.com/jameszka997/Work-Projects/blob/main/Audit%20Capacity%20Projection%20modelling/Audit%20Capacity%20Projection%20Model.md)** Projection of the number of audits that can be expected from a dynamically hiring and training team (Most ideal vs. realistic models)
 - **[2025 Company List Exploration:](https://github.com/jameszka997/Work-Projects/blob/main/2025%20Audit%20Company%20List%20Evaluation.md)** Insight and Analysis of 2025 Company Audit List for key characteristics and patterns
-- **Project Geographic Mapping Dashboard:** Visualization dashboard to visualize all projects on an interactive map with custom filter options
+- **[Project Geographic Mapping Dashboard:](https://github.com/jameszka997/Data-Solutions-Repository/blob/main/Map%20Visual/Map_Visual_readme.md)** Visualization dashboard to visualize all projects on an interactive map with custom filter options
 - **[Project Timeline Dashboard:](https://github.com/jameszka997/Work-Projects/blob/main/Project%20Timeline%20Visual/Timeline%20visual%20readme.md)** visual to track and depict important defined dates, as well as due dates and to record and depict on-going state of projects.
 
 ---
