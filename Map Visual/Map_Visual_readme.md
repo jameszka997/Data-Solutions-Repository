@@ -104,7 +104,7 @@ Data Source combines data from 2 entry manners:
 
 
 
-## 🚀 Future Enhancements
+## 🚀 Enhancements implemented
 
 ### Implementation of Airport location information to showcase nearest airport for better project organisation
 - **Airport location:** Interactive toggle on airport location information to aid in finding nearest airport for scheduling travel plans.
